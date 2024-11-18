@@ -8,6 +8,8 @@
 
 ![Screenshot_3](https://github.com/NahushKulkarni/Plant-Disease-Detection/blob/master/Screenshot-4.png)
 
+
+
 ##### Project Setup
 
 1. Clone this repository
